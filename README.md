@@ -51,4 +51,7 @@ This is a single page Django application which takes in an excel file containing
 8. django-admin manage.py runserver (launch the server)
 
 
-# Go to http://127.0.0.1:8000/ on your browser - you will see a File Upload option over there. Select the "addresses.xlsx" file attached with this folder and hit the Uplaod button. Next, you will be prompted with a message saying "Your File has been saved, do check inside your project folder!"
+- Go to http://127.0.0.1:8000/ on your browser
+- Notice a File Upload option over there. 
+- Select the "addresses.xlsx" file attached with this project folder and hit the Uplaod button. 
+- Next, you will be prompted with a message saying "Your File has been saved, do check inside your project folder!"
